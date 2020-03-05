@@ -4,3 +4,4 @@
  sum = 8
  difference = 2
  product = 15
+ quotient = 1
