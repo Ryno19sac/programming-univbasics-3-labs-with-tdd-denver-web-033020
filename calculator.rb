@@ -1,2 +1,2 @@
 
-  def $first_number = Integer
+ $(first_number) = Integer
