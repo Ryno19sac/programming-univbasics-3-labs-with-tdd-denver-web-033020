@@ -1,2 +1,2 @@
 
-  $first_number = {Numnber}
+  $first_number = Numnber
