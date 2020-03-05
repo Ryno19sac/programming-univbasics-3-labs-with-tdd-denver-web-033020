@@ -1,4 +1,4 @@
-$first_number = Integer
-
-
+def 
+  $first_number = Integer or Float
+end
 # Add your variables here
