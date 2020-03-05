@@ -1,3 +1,3 @@
 
- $first_number.Integer.or.Float
+ $(first_number).be_anInteger.or.Float
  
